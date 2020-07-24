@@ -1,0 +1,29 @@
+body{
+    background:#D3D3D3;
+    font-family: sans-serif;
+    margin: 0;
+    }
+
+output{
+    display: inline;
+    font-size: xx-large;
+    font-family: serif;
+}
+
+h4{
+    margin-top: 0px;
+    margin-left: 75%;
+}
+
+button{
+    margin-top: 0;
+}
+
+.blk{
+    background-color: black;
+}
+
+
+.white{
+    color:white;
+}
